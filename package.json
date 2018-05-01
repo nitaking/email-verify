@@ -20,5 +20,8 @@
         "popper.js": "^1.12",
         "react": "^16.2.0",
         "react-dom": "^16.2.0"
+    },
+    "dependencies": {
+        "semantic-ui-react": "^0.79.1"
     }
 }
