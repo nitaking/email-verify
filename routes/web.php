@@ -16,3 +16,14 @@
 //});
 
 Route::get('/', 'HomeController@index');
+
+/** Login,Logout,ResetPassword,ForgetPassword */
+Auth::routes();
+Route::get('/home', 'HomeController@index')->name('home');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
