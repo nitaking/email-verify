@@ -1,6 +1,9 @@
 ## Email-Verify
 Laravel 5 Email Verify Example
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Description
 1. 仮会員登録
    - 入力画面
